@@ -1,4 +1,13 @@
 edi-workshop-git
 ================
 
-github���[�N�V���b�v�I
+github入門
+
+なう。
+
+- リスト
+- リスト
+- リスト
+- 
+ヘッダー
+-----
