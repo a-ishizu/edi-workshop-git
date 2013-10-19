@@ -1,2 +1,4 @@
 edi-workshop-git
 ================
+
+githubワークショップ！
